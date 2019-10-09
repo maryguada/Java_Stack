@@ -9,7 +9,7 @@ Create multi-view web application for create/read/update/delete,
 Creating of RESTful APIs
 
 Course Schedule:
-Week 1 - Intro to Java
-Week 2 - Sprint Boot, Services, Repositories, Data Model and MySql
-Week 3 - Creating model-view-controller applications, RESTful APIs, Exam review & Exam week
+Week 1 - Intro to Java |
+Week 2 - Spring Boot, Services, Repositories, Data Model and MySql |
+Week 3 - Creating model-view-controller applications, RESTful APIs, Exam review & Exam week |
 Week 4 - Project Week
